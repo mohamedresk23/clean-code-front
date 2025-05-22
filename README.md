@@ -188,12 +188,4 @@ input.addEventListener("input", debounce(searchUsers, 300));
 - No inline styles or scripts?  
 - Performance optimized?  
 
-## 📚 12. Using This Guide with docs.page
-
-1. Push your project with this README to a **public GitHub repo**.  
-2. Visit [https://docs.page](https://docs.page) and connect your repo.  
-3. Docs.page automatically builds and hosts your documentation site for free.
-
----
-
 Thank you for reading! Feel free to contribute and improve these principles. 🚀
